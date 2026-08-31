@@ -89,7 +89,7 @@ Working with ExpEYES showed us firsthand that scientific instruments can be **op
 
 That journey continues with **SEELab**, extending open experimentation, measurement and data acquisition, and **KuttyPy**, bringing together programming, electronics and physical computing.
 
-ExpEYES, SEELab and KuttyPy — together with the work of **CSpark Research** and the wider open-source community around them — have been an important part of our experience with open tools for science.
+ExpEYES, SEELab and KuttyPy, developed by **CSpark Research**, have been an important part of our experience with open tools for science, together with the wider open-source community that has contributed to and grown around them.
 
 SPOSH brings these experiences together: inspiration from a **global Open Science Hardware community**, hands-on experience with **open scientific tools**, and a desire to create a **local community where people can meet, learn, build and collaborate**.
 
