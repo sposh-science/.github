@@ -71,22 +71,29 @@ An open-source Python code browser and one of our early software experiments.
 
 ---
 
-## Our Open Hardware Journey
+## How SPOSH Began
 
-Our journey into Open Science Hardware began with **ExpEYES — Experiments for Young Engineers and Scientists**.
+SPOSH grew from our involvement with open tools for science and from the inspiration of the **Gathering for Open Science Hardware (GOSH)** community.
 
-ExpEYES introduced us to an important idea: scientific instruments can be **open, affordable and understandable** — allowing students, educators and experimenters not only to take measurements, but also to understand the tools behind them.
+GOSH brought together a global community around the idea that scientific hardware should be open — enabling people to study, build, modify, reproduce and share the tools used to do science.
 
-That journey continues with **SEELab**, extending the possibilities of open experimentation, measurement and data acquisition, and with **KuttyPy**, bringing together programming, electronics and physical computing.
+That global movement inspired a simple question:
 
-Developed and supported by **CSpark Research** and their open-source communities, these platforms have played an important role in shaping our interest in open tools for science.
+> **Could we help build a similar community locally — bringing together people interested in Open Science Hardware, FOSS, scientific instrumentation and hands-on experimentation?**
 
-We continue to use, explore and promote them — from the classroom and makerspace to **experimentation, instrumentation and research**.
+That question became one of the ideas behind **SPOSH — Society for Promotion of Open Science Hardware**.
 
-In many ways, SPOSH grew from this journey:
+Our practical journey with Open Science Hardware was also shaped strongly by **ExpEYES — Experiments for Young Engineers and Scientists**.
 
-> **Use open tools. Understand them. Experiment with them. Improve them. Build new things together.**
+Working with ExpEYES showed us firsthand that scientific instruments can be **open, affordable and understandable** — allowing students, educators and experimenters not only to take measurements, but also to understand and modify the instruments themselves.
 
+That journey continues with **SEELab**, extending open experimentation, measurement and data acquisition, and **KuttyPy**, bringing together programming, electronics and physical computing.
+
+ExpEYES, SEELab and KuttyPy — together with the work of **CSpark Research** and the wider open-source community around them — have been an important part of our experience with open tools for science.
+
+SPOSH brings these experiences together: inspiration from a **global Open Science Hardware community**, hands-on experience with **open scientific tools**, and a desire to create a **local community where people can meet, learn, build and collaborate**.
+
+> **Think globally. Build locally. Share openly.**
 ---
 
 ## About SPOSH
