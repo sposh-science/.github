@@ -81,7 +81,7 @@ That global movement inspired a simple question:
 
 > **Could we help build a similar community locally — bringing together people interested in Open Science Hardware, FOSS, scientific instrumentation and hands-on experimentation?**
 
-That question became one of the ideas behind **SPOSH — Society for Promotion of Open Science Hardware**.
+That question became one of the ideas behind **SPOSH — Society for Promotion of Open Science Hardware**. We hope to become a small, local node in that wider GOSH movement — one small community that wishes to be part of it.
 
 Our practical journey with Open Science Hardware was also shaped strongly by **ExpEYES — Experiments for Young Engineers and Scientists**.
 
