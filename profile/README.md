@@ -1,6 +1,5 @@
 <div align="center">
 
-# SPOSH
 ### Society for Promotion of Open Science Hardware
 **Open Tools. Better Science.**
 
