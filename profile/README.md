@@ -1,7 +1,7 @@
+<p align="center">
+  <img src="../assets/identity/sposh-logo.svg" alt="SPOSH — Society for Promotion of Open Science Hardware" width="600">
+</p>
 <div align="center">
-
-### Society for Promotion of Open Science Hardware
-**Open Tools. Better Science.**
 
 ![Open Science Hardware](https://img.shields.io/badge/Open-Science_Hardware-0077B6?style=flat-square)
 ![FOSS](https://img.shields.io/badge/Free_%26_Open_Source-Software-6A5ACD?style=flat-square)
@@ -11,6 +11,7 @@
 
 <br>
 
+**Open Tools. Better Science.**
 **A growing community exploring, building and sharing open tools for science.**
 
 </div>
