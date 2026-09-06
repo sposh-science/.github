@@ -1,1 +1,0 @@
-# SPOSH Branding Source
