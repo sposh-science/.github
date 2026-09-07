@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/identity/sposh-logo.svg" alt="SPOSH — Society for Promotion of Open Science Hardware" width="600">
+  <img src="../assets/identity/sposh-logo.svg" alt="SPOSH — Society for Promotion of Open Science Hardware" width="400">
 </p>
 <div align="center">
 
